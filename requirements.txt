@@ -1,0 +1,19 @@
+beautifulsoup4==4.9.3
+bs4==0.0.1
+docx2txt==0.8
+fake-useragent==0.1.11
+Faker==12.0.0
+pandas==1.2.3
+PyPDF2==1.26.0
+regex==2021.8.28
+requests
+requests-file==1.5.1
+requests-oauthlib
+torch==1.10.1
+transformers==4.21.0
+validators==0.18.2
+nltk==3.7
+sentence-transformers==2.2.0
+spacy==3.4.0
+spacy_streamlit==1.0.3
+en_core_web_lg @ https://huggingface.co/spacy/en_core_web_lg/resolve/main/en_core_web_lg-any-py3-none-any.whl
